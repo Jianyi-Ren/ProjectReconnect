@@ -4,7 +4,7 @@ This Document is created by Jianyi Ren at 4/29/2016 as part of the explanation f
 
 This part explains how SNPs were screened, and how father/son/other relative samples were generated. 
 
-The SNPs are screened as discussed in the paper 2.1 section paragraph 2 and 1~5 are the code and dataset for each step.
+The SNPs were screened as discussed in the paper Luren,Calvin and Jianyi.pdf paragraph 2 of 2.1 section and folder 1~5 are the code and dataset for each step. Preliminar_result saves important intermediate results.
 
 Simulation folder explains how simulated sample data are generated. Code and samples are included.
 
