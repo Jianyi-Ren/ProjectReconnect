@@ -3,7 +3,7 @@
 This Document is created by Jianyi Ren at 4/29/2016 as part of the explanation for Project Reconnect for course 4761 at Columbia University. The detailed project information can be found in this file:
 *Luren,Calvin and Jianyi.pdf.
 
-This part explains how SNPs were screened, and how father/son/other relative samples were generated:
+This part explains how SNPs were screened, and how father/son/other relative samples were simmulated:
 
 The SNPs were screened as discussed in the paper Luren,Calvin and Jianyi.pdf paragraph 2 of 2.1 section.
 
